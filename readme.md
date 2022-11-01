@@ -25,3 +25,10 @@ Once docker-compose finishes loading up, the backend should be running and able 
 #### Register youself through the Frontend
 If everything is working properly, you’ll be able to create a new user on [this link](https://raoakif-silver-fiesta-w4xp9g7j5g2w64-3001.githubpreview.dev/register)
 
+## Add Code Owners to the Repository
+
+Add a File named `CODEOWNERS` with the code, at the root of directory:
+```
+# Following people are the code Reviewers
+* @vanessa-cooper @carl-rattmann
+```
